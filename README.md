@@ -6,7 +6,6 @@ Detail-oriented **BCA student (Data Analytics)** currently pursuing an **MBA in 
 Proficient in **Python, SQL, and Power BI**, with experience in data visualization, dashboard development, and database management.  
 Passionate about applying analytical and storytelling skills in real-world business scenarios.  
 
-📍 Mohali, Punjab, India  
 📫 [komalkamboj7861@gmail.com](mailto:komalkamboj7861@gmail.com)  
 🔗 [Portfolio](https://sites.google.com/view/komalrani-) | [LinkedIn](https://www.linkedin.com/in/komal-rani-452b4224b) | [GitHub](https://github.com/komalvinayak)  
 
