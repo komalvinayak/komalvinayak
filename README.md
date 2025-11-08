@@ -6,11 +6,10 @@ Detail-oriented **BCA student (Data Analytics)** currently pursuing an **MBA in 
 Proficient in **Python, SQL, and Power BI**, with experience in data visualization, dashboard development, and database management.  
 Passionate about applying analytical and storytelling skills in real-world business scenarios.  
 
-📫 [komalkamboj7861@gmail.com](mailto:komalkamboj7861@gmail.com)  
-🔗 [Portfolio](https://sites.google.com/view/komalrani-) | [LinkedIn](https://www.linkedin.com/in/komal-rani-452b4224b) | [GitHub](https://github.com/komalvinayak)  
+ [komalkamboj7861@gmail.com](mailto:komalkamboj7861@gmail.com)  
+ [Portfolio](https://sites.google.com/view/komalrani-) | [LinkedIn](https://www.linkedin.com/in/komal-rani-452b4224b) | [GitHub](https://github.com/komalvinayak)  
 
----
-## 🛠️ Technical Skills  
+## Technical Skills  
 
 <p align="center">
   
@@ -39,16 +38,15 @@ Passionate about applying analytical and storytelling skills in real-world busin
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 
 </p>
+
+##  Achievements  
+
+- **1st Place in Web Designing Competition** (University Level)  
+- Maintained **9.0 SGPA** in BCA  
+
 ---
 
-## 🏆 Achievements  
-
-- 🥇 **1st Place in Web Designing Competition** (University Level)  
-- 🎖️ Maintained **9.0 SGPA** in BCA  
-
----
-
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komalvinayak&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalvinayak&layout=compact&theme=tokyonight)
