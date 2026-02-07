@@ -1,6 +1,6 @@
 # Hi there! I'm Komal Rani 👋  
 
-**Aspiring Data Analyst | Power BI & Python Enthusiast | Educator | Curriculum Developer**  
+**Business Analyst | Data Analyst | Power BI & Python Enthusiast | Educator | Curriculum Developer**  
 
 Detail-oriented **BCA student (Data Analytics)** currently pursuing an **MBA in Business Analytics**.  
 Proficient in **Python, SQL, and Power BI**, with experience in data visualization, dashboard development, and database management.  
