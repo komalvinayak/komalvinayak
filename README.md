@@ -44,27 +44,6 @@ Passionate about applying analytical and storytelling skills in real-world busin
 - **1st Place in Web Designing Competition** (University Level)  
 - Maintained **9.0 SGPA** in BCA  
 
----
-
-## 📊 GitHub Stats  
- 
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=komalvinayak&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    referrerpolicy="no-referrer"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalvinayak&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    referrerpolicy="no-referrer"
-  />
-</p>
-
 
 ---
 
